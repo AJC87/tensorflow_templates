@@ -14,3 +14,5 @@ AI
 6. Inception Labs
 7. uvx
 8. XGBoost
+9. OpenAI Whisper, codex
+10. 
