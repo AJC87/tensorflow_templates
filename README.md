@@ -15,4 +15,7 @@ AI
 7. uvx
 8. XGBoost
 9. OpenAI Whisper, codex
-10. 
+10. GPT-5-Codex
+11. DSPy
+12. Perplexity
+13. Cursor
