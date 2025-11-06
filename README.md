@@ -19,3 +19,4 @@ AI
 11. DSPy
 12. Perplexity
 13. Cursor
+14. LM Studio
